@@ -661,11 +661,13 @@ section {
   #hero h1 {
     font-size: 28px;
     line-height: 36px;
-    margin: 20px 20px; }
+    margin: 20px 20px;
+    text-align: center; }
   #hero h2 {
     font-size: 18px;
     line-height: 24px;
-    margin: 20px 20px; }
+    margin: 20px 20px;
+    text-align: center; }
   #hero .hero-img img {
     width: 50%;
     margin-top: 50px; } }
